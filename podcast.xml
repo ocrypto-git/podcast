@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>おくりぷとラジオ 〜株式・暗号資産・マクロ経済の深層解剖〜</title>
+    <link>https://note.com/ocrypto</link>
+    <language>ja</language>
+    <copyright>© 2026 おくりぷと (Ocrypto)</copyright>
+    <description>サラリーマン投資家「おくりぷと」と天の声A子さんが、日経平均・米国株・ビットコイン・マクロ市場の歪みと急所をハイテンポかつコミカルに深層解剖する投資エンタメポッドキャスト。市場の裏側から今夜の立ち回りまで、サラリーマンの哀愁たっぷりにお届けします！</description>
+    <atom:link href="https://ocrypto-git.github.io/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>おくりぷと (Ocrypto)</itunes:author>
+    <itunes:summary>サラリーマン投資家「おくりぷと」と天の声A子さんが、日経平均・米国株・ビットコイン・マクロ市場の歪みと急所をハイテンポかつコミカルに深層解剖する投資エンタメポッドキャスト。市場の裏側から今夜の立ち回りまで、サラリーマンの哀愁たっぷりにお届けします！</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>おくりぷと</itunes:name>
+      <itunes:email>ocrypto.podcast@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://ocrypto-git.github.io/podcast/cover.jpg"/>
+    <image>
+      <url>https://ocrypto-git.github.io/podcast/cover.jpg</url>
+      <title>おくりぷとラジオ 〜株式・暗号資産・マクロ経済の深層解剖〜</title>
+      <link>https://note.com/ocrypto</link>
+    </image>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>【BTC 85K突破】クジラと養分の心理戦！全網ハッシュレート1,003EH到達で原価防衛壁が機能する真実</title>
+      <description>おくりぷと課長と天の声A子さんによる最新ビットコイン深層解剖ラジオ！ハッシュレート過去最高更新の意味から先物ディスカウントの歪み、そして個人と機関の心理戦までをテンポ抜群のマシンガントークでお届けします。</description>
+      <link>https://note.com/ocrypto</link>
+      <guid isPermaLink="false">ocrypto-podcast-20260922_暗号資産_BTC_85K突破_ハッシュレート1_003EH</guid>
+      <pubDate>Wed, 23 Sep 2026 16:16:31 +0900</pubDate>
+      <enclosure url="https://ocrypto-git.github.io/podcast/episodes/20260922_%E6%9A%97%E5%8F%B7%E8%B3%87%E7%94%A3_BTC_85K%E7%AA%81%E7%A0%B4%E3%80%81%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AC%E3%83%BC%E3%83%881_003EH.mp3" length="10647136" type="audio/mpeg"/>
+      <itunes:duration>05:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>おくりぷと (Ocrypto)</itunes:author>
+      <itunes:image href="https://ocrypto-git.github.io/podcast/cover.jpg"/>
+    </item>
+  </channel>
+</rss>
